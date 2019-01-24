@@ -1,0 +1,12 @@
+hopper_name: "&bCrop &7Hopper"
+hopper_lore: "&7Magical Cactus Hopper!"
+
+messages:
+    hopper_already_in_chunk: "&b&lAscendPvP &7> There is already a &bCrop &7Hopper in this chunk!"
+    hopper_break_success: "&b&lAscendPvP &7> You successfully broke a &bCrop &7Hopper!"
+    hopper_place_success: "&b&lAscendPvP &7> You successfully placed a &bCrop &7Hopper!"
+    no_permission: "&b&lAscendPvP &7> You do not have permission to use that command!"
+    incorrect_usage: "&b&lAscendPvP &7> Incorrect usage! Try: &b/crophopper (player)"
+    player_offline: "&b&lAscendPvP &7> That player is offline!"
+    crophopper_success: "&b&lAscendPvP &7> Player successfully given a Crop Hopper!"
+    crophopper_given: "&b&lAscendPvP &7> You have been given a Crop Hopper!"
